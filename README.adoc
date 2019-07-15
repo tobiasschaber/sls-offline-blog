@@ -1,0 +1,3 @@
+= sls-offline example
+
+This is the example source code for the blog post on blog.codecentric.de.
