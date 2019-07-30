@@ -47,4 +47,3 @@ functions:
 
 resources:
   - ${file(resources/persons-table.yml)}
-  - ${file(resources/persons-images-bucket.yml)}
