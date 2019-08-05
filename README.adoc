@@ -1,3 +1,5 @@
 = sls-offline example
 
-This is the example source code for the blog post on blog.codecentric.de.
+This is the example source code for the blog post on blog.codecentric.de:
+
+https://blog.codecentric.de/2019/08/aws-lokal-entwickeln-mit-serverless-framework-offline-plugins/
